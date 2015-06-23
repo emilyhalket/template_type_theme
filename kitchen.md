@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kitchen
+title: kitchen
 permalink: /kitchen/
 feature-img: "img/sample_feature_img_2.png"
 ---
