@@ -16,7 +16,7 @@ theme:
 
   header_text_feature_image:
   footer_text: >
-   This site is a work in Progress | Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   This site is a work in progress | Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
