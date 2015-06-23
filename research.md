@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Research
-permalink: /about/
+title: Research
+permalink: /research/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
